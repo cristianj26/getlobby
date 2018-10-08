@@ -1,6 +1,14 @@
 ![uBuild Blocks](uploads/2018/06/21/theme.png)
 
-# uBuild Jekyll Theme
+# Landing Page for GetLobby.com
+
+The goal is to build a simple webapplication to store articles, notes, images, videos essentially any content
+an individual or team could use to advance their goals.
+
+
+
+
+# Built using the uBuild Jekyll Theme
 
 [View the announcement post on Forestry.io](https://forestry.io/blog/ubuild-a-new-theme-for-static-sites-using-blocks/#/)
 
@@ -19,4 +27,3 @@
 3. [Import your repo](https://forestry.io/docs/quickstart/setup-site/#import-site-from-repo) as a new Jekyll project
 
 To use the page builder, select the **Page Builder** template when creating a new page.
-
